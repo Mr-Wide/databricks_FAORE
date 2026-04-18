@@ -1,4 +1,4 @@
-# Lecture Board Analysis Pipeline
+# FAORE : Frame Aware Obstruction Remover and Explainer.
 
 ![Architecture Pipeline](WhatsApp%20Image%202026-04-18%20at%2003.14.02.jpeg)
 
