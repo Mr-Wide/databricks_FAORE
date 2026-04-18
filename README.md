@@ -92,9 +92,9 @@ natural language description of the concepts written on the board.
 
 ## Getting started
 
-### Run in Google Colab (recommended for testing)
-
-1. Open `colab_pipeline.ipynb` in Colab
+### Run in Google Colab (recommended for testing, can also run on DataBricks)
+First Make a New Notebook on Colab
+1. Open `main.py` in Colab
 2. Run Cell 1 to install dependencies (includes FFmpeg)
 3. Run Cell 2 and set your config values
 4. Run Cell 3 to upload your video
